@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://valdymas.medeinos.lt",
-    "contentApiKey": "e3ec7b18ad58b7795bb82f2a15"
+    "apiUrl": "http://localhost:2371",
+    "contentApiKey": "75560b9142a02977e935b1190b"
   },
   "production": {
-    "apiUrl": "https://valdymas.medeinos.lt",
-    "contentApiKey": "e3ec7b18ad58b7795bb82f2a15"
+    "apiUrl": "http://localhost:2371",
+    "contentApiKey": "75560b9142a02977e935b1190b"
   }
 }

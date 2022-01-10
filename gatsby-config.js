@@ -78,9 +78,6 @@ module.exports = {
             },
         },
         {
-            resolve: `gatsby-theme-ghost-members`,
-        },
-        {
             resolve: `gatsby-transformer-rehype`,
             options: {
                 filter: node => (
@@ -93,6 +90,9 @@ module.exports = {
                     },
                     {
                         resolve: `gatsby-rehype-prismjs`,
+                    },
+                    {
+                        resolve: `gatsby-rehype-inline-images`,
                     },
                 ],
             },

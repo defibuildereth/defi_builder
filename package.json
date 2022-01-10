@@ -34,6 +34,7 @@
     "gatsby-plugin-netlify": "^3.0.0",
     "gatsby-plugin-preact": "^5.0.0",
     "gatsby-rehype-ghost-links": "^2.0.0",
+    "gatsby-rehype-inline-images": "^2.0.1",
     "gatsby-rehype-prismjs": "^2.0.0",
     "gatsby-theme-ghost-dark-mode": "^2.0.0",
     "gatsby-theme-ghost-members": "^2.0.0",
